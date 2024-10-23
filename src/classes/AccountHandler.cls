@@ -7,4 +7,3 @@ public class AccountHandler {
         System.debug('Updating account: ' + acc.Name);
 	}
 }
-
